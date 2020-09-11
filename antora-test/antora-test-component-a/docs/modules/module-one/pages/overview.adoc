@@ -1,10 +1,10 @@
 = Module One Overview
 
-This is version *{page-component-version}* of Module One in Component B.
+This is version *{page-component-version}* of Test Document.
 
 == Page source
 
-This page is sourced from [.path]_demo-component-b/docs/modules/module-one/pages/overview.adoc_.
+This page is sourced from [.path]_antora-test/docs/modules/module-one/pages/overview.adoc_.
 
 == Cross reference syntax to target this page
 
@@ -19,4 +19,3 @@ To create a cross reference *to the latest version of this page from a page in C
 === Target a specific version of this page
 
 To create a cross reference *to version 1.0 of this page from a page in Component A*, the xref syntax would be `\xref:1.0@component-b:module-one:overview.adoc[]`.
-
