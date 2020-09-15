@@ -1,8 +1,8 @@
-= Welcome to Component B!
+= Welcome to Component A!
 
-This is the automatic start page for version *{page-component-version}* of Component B.
+This is the automatic start page for version *{page-component-version}* of Component A.
 
-Component B is one of two documentation components in the Antora Demo.
+Component A is one of two documentation components in the Antora Demo.
 The other docs component, Component A, can be accessed via the component selector menu (aka component drawer) at the bottom of the menu on the left side of the page.
 
 == Page source
