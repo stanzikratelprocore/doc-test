@@ -4,7 +4,7 @@ This is version *{page-component-version}* of Test Document.
 
 == Page source
 
-This page is sourced from [.path]_antora-test/docs/modules/module-one/pages/overview.adoc_.
+This page is sourced from [.path]_antora-test/antora-test-component-a/docs/modules/module-one/pages/overview.adoc_.
 
 == Cross reference syntax to target this page
 
@@ -14,8 +14,8 @@ To create a cross reference *to this page from a page in the ROOT module of Comp
 
 === Always target the latest version of this page
 
-To create a cross reference *to the latest version of this page from a page in Component A*, the xref syntax would be `\xref:component-b:module-one:overview.adoc[]`.
+To create a cross reference *to the latest version of this page from a page in Component A*, the xref syntax would be `\xref:component-a:module-one:overview.adoc[]`.
 
 === Target a specific version of this page
 
-To create a cross reference *to version 1.0 of this page from a page in Component A*, the xref syntax would be `\xref:1.0@component-b:module-one:overview.adoc[]`.
+To create a cross reference *to version 1.0 of this page from a page in Component A*, the xref syntax would be `\xref:1.0@component-a:module-one:overview.adoc[]`.
